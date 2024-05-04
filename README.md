@@ -2,7 +2,7 @@
 ﻿![](https://javascript30.com/images/JS3-social-share.png)
 
 
-Get the Solution at [YouTube]([https://JavaScript30.com](https://youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&si=qRJ-eHu-2IJ-ndPv))
+Get the Solution at [ YouTube ] (https://youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&si=qRJ-eHu-2IJ-ndPv)
 
 
 ### This is [MY ](https://github.com/d3vshoaib)implementation of JS30, JavaScript 30 is a free online video course teaching you the fundamentals of JavaScript in the browser. The instructor is Wes Bos
